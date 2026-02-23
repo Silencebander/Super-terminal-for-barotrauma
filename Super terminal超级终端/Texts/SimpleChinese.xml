@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" translatedname="中文(简体)" nowhitespace="false">
+	<entityname.super_terminal>超级终端</entityname.super_terminal>
+	<entitydescription.super_terminal>用一个超级终端来存储木卫二上的所有物品</entitydescription.super_terminal>
+	<entityname.storage_entrance>存储器</entityname.storage_entrance>
+	<entitydescription.storage_entrance>更大的存储器来快速存储</entitydescription.storage_entrance>
+</infotexts>

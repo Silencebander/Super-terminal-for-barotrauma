@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" translatedname="English" nowhitespace="false">
+	<entityname.super_terminal>Super Terminal</entityname.super_terminal>
+	<entitydescription.super_terminal>A super terminal that you can store everything in Barotrauma.Use left clik to set</entitydescription.super_terminal>
+	<entityname.storage_entrance>Storage Entrance</entityname.storage_entrance>
+	<entitydescription.storage_entrance>The larger storage entrance for super terminal.Use E button to set.</entitydescription.storage_entrance>
+</infotexts>

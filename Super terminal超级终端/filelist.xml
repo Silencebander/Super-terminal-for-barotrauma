@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Super terminal超级终端" modversion="1.0.1" corepackage="False" steamworkshopid="3670545214" gameversion="1.11.5.0" altnames="Super terminal超级终端">
+<contentpackage name="Super terminal超级终端" modversion="1.1" corepackage="False" steamworkshopid="3670545214" gameversion="1.11.5.0" altnames="Super terminal超级终端">
   <Item file="%ModDir%/itemsss/itemsss.xml" />
+  <Text file="%ModDir%/Texts/SimpleChinese.xml" />
+  <Text file="%ModDir%/Texts/English.xml" />
 </contentpackage>
